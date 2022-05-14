@@ -2,23 +2,30 @@
 
 Face Recognition and Authentication App with TensorFlow Lite.
 
-## Getting Started
-
 Simple Face Recognition authentication (Sign up + Sign in). It works with two device vision models working together, the google ML kit vision model and MobileFaceNet model.
 
-## Assets
+## [Watch it on YouTube](https://www.youtube.com/watch?v=PgA3A8M5R0I)
 
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
+**Packages we are using:**
 
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
-## Localization
 
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
+### Preview
 
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+![Preview](/intro.gif)
+
+## Screens it contains:
+
+=> Login
+
+=> Sign Up
+
+## Photos
+![Preview](/1.jpg)
+![Preview](2.jpg)
+![Preview](3.jpg)
+![Preview](4.jpg)
+![Preview](5.jpg)
+![Preview](6.jpg)
+![Preview](7.jpg)
