@@ -28,4 +28,3 @@ Simple Face Recognition authentication (Sign up + Sign in). It works with two de
 ![Preview](4.jpg)
 ![Preview](5.jpg)
 ![Preview](6.jpg)
-![Preview](7.jpg)
